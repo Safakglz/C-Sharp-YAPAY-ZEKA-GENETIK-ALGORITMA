@@ -1,0 +1,60 @@
+C:\Users\ASUS\Desktop\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Form1.resources
+C:\Users\ASUS\Desktop\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe.config
+C:\Users\ASUS\Desktop\Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe
+C:\Users\ASUS\Desktop\Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.pdb
+C:\Users\ASUS\Desktop\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.exe
+C:\Users\ASUS\Desktop\Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.pdb
+C:\Users\ASUS\Desktop\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe.config
+C:\Users\ASUS\Desktop\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe
+C:\Users\ASUS\Desktop\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.pdb
+C:\Users\ASUS\Desktop\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Form1.resources
+C:\Users\ASUS\Desktop\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.exe
+C:\Users\ASUS\Desktop\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.pdb
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev\Ödev 2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe.config
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev\Ödev 2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev\Ödev 2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.pdb
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev\Ödev 2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev\Ödev 2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Form1.resources
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev\Ödev 2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev\Ödev 2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev\Ödev 2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev\Ödev 2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.exe
+C:\Users\ASUS\Desktop\Yapay Zeka\Ödev\Ödev 2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.pdb
+C:\Users\ASUS\Desktop\Safak_Guelez_163301056 (1)\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe.config
+C:\Users\ASUS\Desktop\Safak_Guelez_163301056 (1)\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe
+C:\Users\ASUS\Desktop\Safak_Guelez_163301056 (1)\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.pdb
+C:\Users\ASUS\Desktop\Safak_Guelez_163301056 (1)\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Safak_Guelez_163301056 (1)\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Form1.resources
+C:\Users\ASUS\Desktop\Safak_Guelez_163301056 (1)\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Safak_Guelez_163301056 (1)\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Safak_Guelez_163301056 (1)\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Safak_Guelez_163301056 (1)\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.exe
+C:\Users\ASUS\Desktop\Safak_Guelez_163301056 (1)\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.pdb
+C:\Users\ASUS\Desktop\gen2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe.config
+C:\Users\ASUS\Desktop\gen2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe
+C:\Users\ASUS\Desktop\gen2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.pdb
+C:\Users\ASUS\Desktop\gen2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\gen2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Form1.resources
+C:\Users\ASUS\Desktop\gen2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Properties.Resources.resources
+C:\Users\ASUS\Desktop\gen2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\gen2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\gen2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.exe
+C:\Users\ASUS\Desktop\gen2\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.pdb
+C:\Users\ASUS\Desktop\163301056_ga\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe.config
+C:\Users\ASUS\Desktop\163301056_ga\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.exe
+C:\Users\ASUS\Desktop\163301056_ga\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\bin\Debug\Genetik Algoritma.pdb
+C:\Users\ASUS\Desktop\163301056_ga\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\163301056_ga\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Form1.resources
+C:\Users\ASUS\Desktop\163301056_ga\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik_Algoritma.Properties.Resources.resources
+C:\Users\ASUS\Desktop\163301056_ga\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\163301056_ga\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\163301056_ga\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.exe
+C:\Users\ASUS\Desktop\163301056_ga\Şafak Gülez 163301056 Genetik Algoritma\Genetik Algoritma\obj\Debug\Genetik Algoritma.pdb
